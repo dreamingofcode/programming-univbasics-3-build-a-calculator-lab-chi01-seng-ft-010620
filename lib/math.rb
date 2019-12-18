@@ -25,6 +25,6 @@ p modulo
 end
 
 def square_root(num)
-sqroot= Math.sqrt(#{num})
+sqroot= Math.sqrt(num)
 p sqroot
 end
